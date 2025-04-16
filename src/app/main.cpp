@@ -1,8 +1,10 @@
-#include <iostream>
+/*   */
+
+#include "main.hpp"
+
 
 int main() {
 
-
-    std::cout << "\n #cpp_001(20:47:36): The End ..." << std::endl;
-    return (EXIT_SUCCESS);
+    out << "\n #(00:00:00): The End ..." << end;
+    return EXIT_SUCCESS;
 }
